@@ -4,7 +4,7 @@ A GSM-based smart security door locking system built using Arduino.
 This system allows remote door control via SMS commands and integrates motion detection for enhanced security.
 
 ---
-
+ 
 ## Overview
 
 The Security Door Locker is designed to provide remote and automated access control using GSM communication.  
